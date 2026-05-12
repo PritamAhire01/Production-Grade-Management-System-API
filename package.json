@@ -1,0 +1,21 @@
+{
+  "name": "production-grade-management-system-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "run":"node index.js",
+   "test":"node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PritamAhire01/Production-Grade-Management-System-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PritamAhire01/Production-Grade-Management-System-API/issues"
+  },
+  "homepage": "https://github.com/PritamAhire01/Production-Grade-Management-System-API#readme",
+  "description": ""
+}
